@@ -241,20 +241,20 @@ main {
 
 #take-quiz:hover {
     transform: translateY(-2px);
-    background: #a68abe;
-    box-shadow: 0 6px 0 #806899;
+    background: #7b00ff;
+    box-shadow: 0 6px 0 #380074;
 }
 
 #take-quiz:active {
     transform: translateY(2px);
-    box-shadow: 0 2px 0 #806899;
+    box-shadow: 0 2px 0 #380074;
 }
 
 #take-quiz:focus-visible,
 .answer-option:focus-visible,
 .quiz-navigation button:focus-visible,
 .quiz-restart:focus-visible {
-    outline: 3px solid #7041a6;
+    outline: 3px solid #7b00ff;
     outline-offset: 3px;
 }
 
